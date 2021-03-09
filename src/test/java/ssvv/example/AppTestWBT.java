@@ -1,4 +1,4 @@
-package PrjMaxPointsParticipantsMV.PrjMaxPointsParticipants;
+package ssvv.example;
 
 import static org.junit.Assert.*;
 
